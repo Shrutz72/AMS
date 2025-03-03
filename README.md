@@ -11,7 +11,7 @@ AMS stands for Attendance Management System
 #Installations
 
 Clone the repository:
-git clone https://github.com/Shrutz72/attendance-management-system.git
+git clone https://github.com/Shrutz72/ams.git
 cd attendance-management-system
 
 Run the application:
