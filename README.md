@@ -35,5 +35,18 @@ git clone https://github.com/Shrutz72/ams.git
 2. Run the application:
 python app.py
 
+#IMAGES:
+
+![image](https://github.com/user-attachments/assets/10cb3b0f-ae8d-499a-a91b-3a5a4e603ea3)
+![image](https://github.com/user-attachments/assets/db817b03-0156-4e9f-a068-0d873ffb657b)
+![image](https://github.com/user-attachments/assets/ff127272-1260-494e-86bd-c4fbf06cdf44)
+![image](https://github.com/user-attachments/assets/ab60f855-eb7f-4d08-95c5-f02719d2d378)
+![image](https://github.com/user-attachments/assets/ed32f41a-7a16-4e50-b6f4-7e50324d4988)
+
+
+
+
+
+
 
 
